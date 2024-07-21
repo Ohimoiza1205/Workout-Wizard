@@ -19,6 +19,17 @@ Creates a randomized bodyweight workout, taking these inputs in CLI:
 
 It samples random exercises from python/options.csv, which you can modify for more variety.
 
+# Prerequisites
+- Python 3.8 or higher
+- Required libraries: pandas, prompt_toolkit
+- CSV file (options.csv) with exercise options and attributes
+
+# Setup
+- Clone the repository.
+- Install the required Python libraries using pip install pandas prompt_toolkit.
+- Update the options.csv file with your preferred exercises and attributes.
+- Run the script and follow the prompts to generate your workout plan.
+
 # Example workout
 
 ```
