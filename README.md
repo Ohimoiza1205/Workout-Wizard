@@ -22,7 +22,7 @@ It samples random exercises from python/options.csv, which you can modify for mo
 # Example workout
 
 ```
-Printed: 2021-09-20, Monday
+Printed: 2024-07-21, Sunday
 
 Workout length: 18.0 mins 
 Sets: 6 
